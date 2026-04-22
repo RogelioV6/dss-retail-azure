@@ -1,0 +1,12 @@
+{
+  "name": "dss-retail-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tedious": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
